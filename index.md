@@ -1,9 +1,9 @@
 ## Welcome to my blog
 
-Reference-style: 
+
 ![a beach pic][beach]
 
-[beach]: "halfmoonbaybeach.png"
+[beach]: halfmoonbaybeach.png "title text"
 
 You can use the [editor on GitHub](https://github.com/christinabinns/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
