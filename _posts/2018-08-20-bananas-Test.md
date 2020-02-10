@@ -1,3 +1,8 @@
+---
+layout: post
+title: "I Know How to Use Jekyll"
+---
+
 A banana is an edible fruit – botanically a berry – produced by several kinds
 of large herbaceous flowering plants in the genus Musa.
 
