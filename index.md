@@ -5,9 +5,20 @@
 
 [beach]: halfmoonbaybeach.png "title text"
 
-You can use the [editor on GitHub](https://github.com/christinabinns/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
 
 ### Markdown
 
