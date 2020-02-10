@@ -1,4 +1,4 @@
-## Welcome to my blog
+## Welcome to the blog
 
 
 ![a beach pic][beach]
