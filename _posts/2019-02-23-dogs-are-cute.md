@@ -1,6 +1,6 @@
 ---
-layout: post
-title: dogs-are-cute
+layout: page
+title: dogs are cute
 ---
 
 Dogs are generally cute and fluffy.

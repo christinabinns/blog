@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: bananas are a great fruit
 ---
 
