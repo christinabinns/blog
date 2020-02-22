@@ -10,7 +10,7 @@ Some are big and some are small and some are in the middle. Some are soft and so
 Also they are warm and cuddly and full of fun
 
 <a href="/blog/dog.jpeg"  target="_blank">
-<img src="/blog/dog.jpeg" =50x></a>
+<img src="/blog/dog.jpeg" style="width:200px;"></a>
 
 
 
