@@ -11,3 +11,5 @@ distinguishing them from dessert bananas. The fruit is variable in size, color,
 and firmness, but is _usually_ elongated and curved, with soft flesh rich in
 starch covered with a rind, which may be green, yellow, red, purple, or brown
 when ripe.
+
+Eat a banana today
